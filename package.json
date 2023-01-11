@@ -1,0 +1,8 @@
+{
+  "name": "com.EdwardCreighton.Singletons",
+  "version": "1.0.0",
+  "displayName": "Unity Singletons",
+  "description": "Singlton and MonoBehaviour Singleton",
+  "unity": "2022.1",
+  "unityRelease": "23f1"
+}
